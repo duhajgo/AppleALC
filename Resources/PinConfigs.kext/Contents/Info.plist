@@ -9300,6 +9300,20 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
+					<string>ASUS Custom - Conexant CX20585</string>
+					<key>CodecID</key>
+					<integer>351359081</integer>
+					<key>ConfigData</key>
+					<data>AZccEAGXHRABlx4gAZcfAAGnHCABpx0wAacegQGnHwEBtxwwAbcdEAG3HoABtx8AAbcMAgHHHQABxx4AAccfQAHXHGAB1x0AAdceAAHXH0AB5xxgAecdAAHnHgAB5x9AAfcccAH3HQAB9x4QAfcfkAIHHIACBx0AAgceAAIHH0ACJxyAAicdAAInHgACJx9AAjcckAI3HQECNx6gAjcfkA==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>28</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
 					<string>Mirone - Conexant CX20588</string>
 					<key>CodecID</key>
 					<integer>351359084</integer>
